@@ -50,16 +50,10 @@ node index.js
 ## Visual Demo
 
 <h2 align="center">
-Walkthrough Vid Here:
-</h2>
-
-![Click here for video!]()
-
-<h2 align="center">
 Screenshot of database table:
 </h2>
 
-![Screenshot]()
+![Screenshot](./Assets/ss-challenge12.PNG)
 
 ## Links
 
